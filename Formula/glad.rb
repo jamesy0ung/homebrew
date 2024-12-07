@@ -2,7 +2,7 @@ class Glad < Formula
   desc "Pre-built GLAD (OpenGL Loader-Generator)"
   homepage "https://github.com/Dav1dde/glad"
   url "https://github.com/jamesy0ung/homebrew-glad/releases/download/release/glad.tar.gz"
-  version "1.0.0"
+  version "2.0.8"
   sha256 "fe75e68b49fa23dd2ca25f91eff1d0da1b76b9d4a9922a174bb34105bfe0559c"
   
   def install
