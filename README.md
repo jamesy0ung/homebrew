@@ -1,0 +1,1 @@
+# GLAD, packaged for Homebrew
